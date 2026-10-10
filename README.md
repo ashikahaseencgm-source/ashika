@@ -1,169 +1,226 @@
+# 👋 Hey there, I'm Ashika Haseen S!
+
 <div align="center">
 
-Ashika Haseen S
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Python+Programmer;Exploring+Agentic+AI+%26+Edge+AI" alt="Typing SVG" />
 
-AI / ML · Computer Vision · Python
+### 🤖 AI / ML Engineer in the Making | 👁️ Computer Vision | 🐍 Python
 
-I like exploring how intelligent systems work — from models and data to applications people can actually use.
+*Turning curiosity into intelligent solutions, one experiment at a time.*
 
-About · Toolkit · Projects · Learning · Certifications
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURGITHUBUSERNAME)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOURGITHUBUSERNAME&style=for-the-badge&color=blueviolet)](https://github.com/YOURGITHUBUSERNAME)
 
 </div>
 
-<a id="about"></a>
+---
 
-01 / A little about me
+## 🧑‍💻 About Me
 
-I'm interested in building with machine learning, computer vision, and language technologies. I also enjoy exploring the space where AI, automation, and business meet.
+```python
+class Ashika:
+    def __init__(self):
+        self.name = "Ashika Haseen S"
+        self.field = "Artificial Intelligence & Data Science"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "Agentic AI",
+            "Edge AI",
+            "Business & Technology"
+        ]
+        self.languages = ["Python", "Java"]
+        self.mindset = "Learn, Build, Experiment, Repeat"
 
-Currently exploring Agentic AI, Edge AI, and computer vision.
-Working with Python and Java, alongside tools for ML experimentation and application development.
-Interested in turning technical ideas into practical, usable projects.
+    def say_hello(self):
+        return "Let's build something intelligent! 🚀"
 
-I believe the best way to learn a technology is to build something with it.
+me = Ashika()
+print(me.say_hello())
+```
 
-<a id="toolkit"></a>
+- 🎓 AI & Data Science engineering student passionate about intelligent systems.
+- 🏆 **Smart India Hackathon 2025 Winner** — worked on an AI-powered video surveillance solution.
+- 👁️ Interested in object detection, visual recognition, and real-world computer vision applications.
+- 🤖 Exploring Agentic AI, language models, automation, and Edge AI.
+- 💡 Curious about the intersection of AI, business strategy, analytics, and product innovation.
+- 🌱 Constantly learning by building projects and experimenting with new technologies.
 
-02 / My toolkit
+> 💭 *I believe the best way to understand technology is to build something meaningful with it.*
 
-<details> <summary><b>01 — AI & machine learning</b> · Models, vision, language</summary>
+---
 
-Machine Learning Deep Learning Computer Vision NLP
+## 🛠️ Tech Stack & Tools
 
-Edge AI Agentic AI Prompt Engineering GLM-based Automation
+### 🧠 AI, Machine Learning & Computer Vision
 
-Libraries & tools
+<p align="left">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/></a>
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"/></a>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV"/></a>
+<a href="https://huggingface.co/"><img src="https://skillicons.dev/icons?i=huggingface" width="48" alt="Hugging Face"/></a>
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="48" alt="Scikit-learn"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow"/></a>
+</p>
 
-PyTorch · Scikit-learn · OpenCV · Hugging Face · YOLOv10 · NumPy · Matplotlib
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00A98F?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-412991?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0A7EA4?style=flat-square)
+![Edge AI](https://img.shields.io/badge/Edge_AI-228B22?style=flat-square)
 
-</details>
+### 💻 Programming & Development
 
-<details> <summary><b>02 — Development & data</b> · Applications, storage, pipelines</summary>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,flask,streamlit,git,github,vscode" alt="Programming and development tools"/>
+</p>
 
-Languages: Python, Java
+### 🗄️ Data & Infrastructure
 
-Backend & applications: Flask, Streamlit
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,kafka,mysql" alt="Data and infrastructure tools"/>
+</p>
 
-Data & infrastructure: MongoDB, Apache Kafka
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-</details>
+### 📊 Business & Analytics
 
-<details> <summary><b>03 — Business & analytics</b> · Beyond the model</summary>
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-3662A5?style=flat-square)
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-E4405F?style=flat-square)
 
-Business Analytics · Market Research · Financial Understanding · Digital Marketing
+---
 
-Tools: Microsoft Excel, PowerPoint, Digital Marketing Tools
+## 🚀 Featured Projects
 
-</details>
+### 🛡️ 1. AI-Powered Video Surveillance System
 
-<details> <summary><b>04 — Everything I'm exploring</b> · Emerging technologies</summary>
+**🏆 Smart India Hackathon 2025 — Winning Project**
 
-Intelligent agents and AI-assisted workflows
-Computer vision and object detection
-Language models and prompt design
-Lightweight AI applications and Edge AI
-Data-driven business decisions
+An AI-powered surveillance solution designed to assist security monitoring through computer vision and intelligent video analysis.
 
-</details>
+- 🎯 Weapon detection using object detection models.
+- 👁️ Suspicious behavior detection.
+- 🔎 Person-of-interest detection.
+- ⚡ Exploration of Edge AI for efficient inference.
+- 🔄 Video processing and event-driven data pipelines.
 
-<a id="projects"></a>
+**Tech Stack**
 
-03 / Selected work
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv10](https://img.shields.io/badge/YOLOv10-111F68?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-I'd rather showcase a few meaningful projects than list dozens of technologies without context.
+🔗 **Repository:** [Add your project repository link here](https://github.com/YOURGITHUBUSERNAME)
 
-<!-- Replace these placeholders with actual repositories. -->
+---
 
-<details> <summary><b>01 — Computer Vision</b> · Open the project details</summary>
+### 👁️ 2. Computer Vision & Object Detection
 
-An opportunity to demonstrate object detection, image processing, or visual recognition using OpenCV and YOLOv10.
+Exploring visual understanding through image processing, object detection, and deep learning models.
 
-Potential stack: Python · OpenCV · YOLOv10
+- 🖼️ Image and video processing using OpenCV.
+- 🎯 Experiments with YOLO object detection.
+- 🧪 Model experimentation and inference.
 
-Explore my repositories
+**Tech Stack:** Python · OpenCV · YOLO · PyTorch
 
-</details>
+🔗 **Repository:** [Explore my repositories](https://github.com/YOURGITHUBUSERNAME?tab=repositories)
 
-<details> <summary><b>02 — Applied AI</b> · Open the project details</summary>
+---
 
-An AI application exploring model inference, language technologies, prompt engineering, or agent-based workflows.
+### 🤖 3. Applied AI & Intelligent Applications
 
-Potential stack: Python · PyTorch · Hugging Face
+Exploring practical AI applications involving language technologies, model inference, and interactive user interfaces.
 
-Explore my repositories
+- 🧠 Experimenting with language models and prompt engineering.
+- ⚙️ Exploring AI-assisted workflows and intelligent agents.
+- 🌐 Building Python-based application interfaces.
 
-</details>
+**Tech Stack:** Python · Hugging Face · Flask · Streamlit
 
-<details> <summary><b>03 — Data & applications</b> · Open the project details</summary>
+🔗 **Repository:** [Explore my repositories](https://github.com/YOURGITHUBUSERNAME?tab=repositories)
 
-An interactive application or data-driven tool that turns information into something useful.
+*Note: Add the actual repository link, screenshots, and implementation details for projects 2 and 3 before presenting them as completed projects.*
 
-Potential stack: Python · Streamlit or Flask · MongoDB
+---
 
-Explore my repositories
+## 📚 Certifications & Learning
 
-</details>
+| 🎯 Area | 📜 Certification / Course |
+|---|---|
+| 🤖 AI | Intro to AI Agents & Agentic AI — Infosys Springboard |
+| ✨ AI | Prompt Engineering — IBM |
+| 💻 Programming | Java Programming Fundamentals — Infosys Springboard |
+| ☁️ Infrastructure | Virtual Private Servers with Python — MindLuster |
+| 🌐 Networking | Network Virtualization Essentials — MindLuster |
+| 🔐 Security | Fundamentals of Cryptography — Infosys Springboard |
+| 🎨 Design | Human Computer Interaction — NPTEL |
+| 📊 Analytics | Business Analytics — IBM |
+| 💼 Professional | Higher Diploma in Computer Applications — TCDS |
+| 🗣️ Communication | Effective Speaking & Listening — Wadhwani Foundation |
 
-These are project directions, not claims of completed work. Replace them with actual projects, screenshots, and repository links.
+---
 
-<a id="learning"></a>
+## 🌱 Currently Exploring
 
-04 / Currently learning
-Area	What interests me
-Agentic AI	Systems that can plan and use tools
-Computer vision	Detection, recognition, and visual understanding
-Edge AI	Running models efficiently on constrained devices
-NLP & LLMs	Language understanding and practical AI applications
-Data engineering	Data pipelines and event streaming with Kafka
+- 🤖 Agentic AI — intelligent agents, tool use, and workflows.
+- 👁️ Computer Vision — object detection and visual understanding.
+- ⚡ Edge AI — efficient deployment of AI models.
+- 🧠 NLP & LLMs — language understanding and AI applications.
+- 🔄 Data Engineering — pipelines, streaming, and Apache Kafka.
+- 📈 Business Analytics — using data to support better decisions.
 
-<a id="certifications"></a>
+---
 
-05 / Certifications & courses
-
-<details> <summary><b>AI & prompt engineering</b> · 2 credentials</summary>
-
-Intro to AI Agents & Agentic AI — Infosys Springboard
-Prompt Engineering — IBM
-
-</details>
-
-<details> <summary><b>Programming & infrastructure</b> · 3 credentials</summary>
-
-Java Programming Fundamentals — Infosys Springboard
-Virtual Private Servers with Python — MindLuster
-Network Virtualization Essentials — MindLuster
-
-</details>
-
-<details> <summary><b>Security & interaction design</b> · 2 credentials</summary>
-
-Fundamentals of Cryptography — Infosys Springboard
-Human Computer Interaction — NPTEL
-
-</details>
-
-<details> <summary><b>Business & professional skills</b> · 3 credentials</summary>
-
-Business Analytics — IBM
-Higher Diploma in Computer Applications — TCDS
-Effective Speaking & Listening — Wadhwani Foundation
-
-</details>
-
-06 / GitHub activity
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURGITHUBUSERNAME&showicons=true&hideborder=true&bgcolor=00000000&titlecolor=58A6FF&iconcolor=58A6FF&textcolor=8B949E&hide_title=true" height="150" alt="GitHub contribution statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOURGITHUBUSERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURGITHUBUSERNAME&layout=compact&hideborder=true&bgcolor=00000000&titlecolor=58A6FF&textcolor=8B949E" height="150" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURGITHUBUSERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Most used programming languages"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURGITHUBUSERNAME&hide_border=true&background=00000000&ring=58A6FF&fire=FF8C42&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
 
 </div>
 
+---
+
+## 🎯 My Current Goals
+
+- 🚀 Build practical AI and computer vision applications.
+- 🧪 Improve model experimentation and deployment skills.
+- 🧠 Explore intelligent agents and Edge AI.
+- 💼 Connect technical knowledge with business and product thinking.
+- 🌍 Collaborate on meaningful open-source projects.
+
+---
+
+## 🤝 Let's Connect!
+
 <div align="center">
 
-Curiosity first. Experiments second. Better solutions always.
+I'm always happy to connect with people interested in AI, machine learning, computer vision, and innovative ideas.
 
-GitHub
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURGITHUBUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+### 💫 *Curiosity first. Experiments second. Better solutions always.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8A2BE2&height=120&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
